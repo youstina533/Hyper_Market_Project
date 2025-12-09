@@ -1,0 +1,3 @@
+User ID: 1, Role: Manager, Action: Logged in successfully
+User ID: 1234, Role: admin, Action: User information saved.
+User ID: 1234, Role: admin, Action: User information saved.
